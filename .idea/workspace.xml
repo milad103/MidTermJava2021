@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="updated 11:39" />
+    <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="updated 11:41" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617939589335</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated 11:41">
+      <created>1617939713557</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617939713557</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -227,7 +234,8 @@
     <MESSAGE value="updated definition file" />
     <MESSAGE value="updated 10:24" />
     <MESSAGE value="updated 11:39" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated 11:39" />
+    <MESSAGE value="updated 11:41" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated 11:41" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
