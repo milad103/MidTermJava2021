@@ -6,7 +6,7 @@ public class ArithmeticOperator {
 
     // simple method
     public static void addition() {
-        int a = 10;
+        int a = 11;
         int b = 20;
         int sum = a + b;
 
